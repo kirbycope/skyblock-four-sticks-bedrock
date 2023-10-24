@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "SkyBlock Four Sticks",
+		"description": "SkyBlock Four Sticks Resource Pack",
+		"uuid": "f8ca2d97-4a6d-7d10-f6a6-fca3c1d13298",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["kirbycope"],
+		"generated_with": {
+			"blockbench_item_wizard": ["1.0.2"]
+		}
+	},
+	"modules": [
+		{
+			"description": "SkyBlock Four Sticks",
+			"type": "resources",
+			"uuid": "1bc090a5-09ba-6fac-d8d5-8d136d11694e",
+			"version": [1, 0, 0]
+		}
+	]
+}
