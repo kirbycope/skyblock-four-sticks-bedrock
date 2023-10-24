@@ -2,7 +2,7 @@
 	"format_version": "1.20.30",
 	"minecraft:item": {
 		"description": {
-			"identifier": "myname:master_stick_3",
+			"identifier": "skyblock:master_stick_3",
 			"menu_category": {
 				"category": "equipment",
 				"group": "itemGroup.name.pickaxe"
