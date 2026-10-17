@@ -4,9 +4,12 @@
 4-Player SkyBlock
 
 ## Installation
-1. Download the [mctemplate](https://github.com/kirbycope/skyblock-four-sticks-bedrock/raw/main/skyblock-four-sticks.mctemplate)
+1. Download the [mctemplate](https://github.com/kirbycope/skyblock-four-sticks-bedrock/releases/latest/download/skyblock-four-sticks.mctemplate)
 1. Double-click the mctemplate file
 1. Load world
+
+## Requirements
+Minecraft Bedrock 1.26.0 or newer, with no experiments.
 
 ## Releasing
 Pushing a tag that starts with `v` (for example `git tag v1.0.0 && git push origin v1.0.0`) runs the Release workflow in `.github/workflows/release.yml`, which builds the world template and attaches `skyblock-four-sticks-bedrock.mctemplate` to a GitHub Release.
