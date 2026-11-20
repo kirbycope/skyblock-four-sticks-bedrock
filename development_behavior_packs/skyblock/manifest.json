@@ -2,9 +2,9 @@
 	"format_version": 2,
 	"header": {
 		"name": "SkyBlock Four Sticks",
-		"description": "SkyBlock Four Sticks Behavior Pack",
+		"description": "SkyBlock Four Sticks Behavior Pack 1.1.1",
 		"uuid": "9320c4af-8626-46a9-b94e-f5ad72b21610",
-		"version": [1, 1, 0],
+		"version": [1, 1, 1],
 		"min_engine_version": [1, 26, 0]
 	},
 	"metadata": {
@@ -13,7 +13,7 @@
 	"modules": [
 		{
 			"description": "Behavior",
-			"version": [1, 1, 0],
+			"version": [1, 1, 1],
 			"uuid": "d7933957-ae0a-4bc2-959d-d843abee8f47",
 			"type": "data"
 		}
